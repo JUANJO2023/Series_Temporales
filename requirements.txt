@@ -1,0 +1,3 @@
+wfdb
+PyQt5
+neurokit2
